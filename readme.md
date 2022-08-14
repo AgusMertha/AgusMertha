@@ -6,7 +6,7 @@
   <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg"/>
 </a>
 <a href="facebook.com/agus.mertha/">
-  <<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg"/>
+  <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg"/>
 </a>
 
 <br/>
